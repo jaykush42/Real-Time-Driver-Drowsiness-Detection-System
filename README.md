@@ -27,7 +27,6 @@ The required Python libraries, which can be installed using pip. You can find th
 ```
 git clone https://github.com/jaykush42/Real-Time-Driver-Drowsiness-Detection-System
 ```
-<sub> git clone https://github.com/your-username/drowsiness-detection.git </sub>
 
 3. Install the required dependencies:
 ```
